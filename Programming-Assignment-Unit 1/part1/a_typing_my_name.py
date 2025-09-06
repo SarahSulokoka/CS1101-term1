@@ -1,9 +1,9 @@
-# print("Sara Sulokoka")
+print("Sara Sulokoka")
 
 # Output would be : Sara Sulokoka since the command is correct
 
 
- print(Sara Sulokoka")
+# print(Sara Sulokoka")
       
 # I get a warnning since a quotation is missing , no output given. 
 
