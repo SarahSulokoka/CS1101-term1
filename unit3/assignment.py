@@ -2,16 +2,18 @@
 # Unit 3 Assignment - Question 1
 # Recursive countdown and countup functions
 
+# Counts down from n to Blastoff!
 def countdown(n):
-    """Counts down from n to Blastoff!"""
     if n <= 0:
         print("Blastoff!")
     else:
         print(n)
         countdown(n - 1)
 
+
+# Counts up from n to Blastoff!
+
 def countup(n):
-    """Counts up from n to Blastoff!"""
     if n >= 0:
         print("Blastoff!")
     else:
