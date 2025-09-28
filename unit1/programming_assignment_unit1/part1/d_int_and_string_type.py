@@ -1,6 +1,9 @@
 print('67')
 print(67)
 
+print(type(67))
+print(type('67'))
+
 # Explanation of the Difference
 # Although the output looks identical, Python treats the two values in a fundamentally different way.
 # The difference is that '67' is a string (text), while 67 is an integer (a number).

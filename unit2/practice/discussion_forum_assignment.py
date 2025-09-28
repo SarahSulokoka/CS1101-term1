@@ -11,7 +11,7 @@ def greet(name):
 # Function call: "Alice" is the argument
 greet("Alice")
 
-output: Hello, Alice! Welcome to Python.
+#output: Hello, Alice! Welcome to Python.
 
 
 
