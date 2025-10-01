@@ -1,7 +1,4 @@
-# --------------------------------------
-# Part 1: Hypotenuse Function
-# Using incremental development
-# --------------------------------------
+# Part 1: Hypotenuse Function Using incremental development
 
 # Stage 1: Start with squaring the numbers
 # Test with a = 3, b = 4
