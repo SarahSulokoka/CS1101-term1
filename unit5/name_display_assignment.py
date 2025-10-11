@@ -1,4 +1,4 @@
-# Program to do operations on the name "Sara Sulokoka"
+# Program to do operations on my name "Sara Sulokoka"
 
 # Step 1: store my name
 name = "Sara Sulokoka"
