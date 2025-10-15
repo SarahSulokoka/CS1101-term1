@@ -39,19 +39,16 @@ print("Test Case 1:")
 sentence1 = "Data analysis is a crucial skill for modern businesses"
 wordlist1, reversed1 = process_sentence(sentence1)
 
-print("\n" + "="*50)
 
 # Test Case 2: Show versatility with different sentence structure
 print("Test Case 2:")
 sentence2 = "Python programming makes data manipulation efficient"
 wordlist2, reversed2 = process_sentence(sentence2)
 
-print("\n" + "="*50)
 
 # Test Case 3: Interactive user input demonstration
 print("Test Case 3 - User Input:")
 user_sentence = input("Enter your own sentence to process: ")
 user_wordlist, user_reversed = process_sentence(user_sentence)
 
-print("\n" + "="*50)
 print("PROGRAM COMPLETED SUCCESSFULLY")
